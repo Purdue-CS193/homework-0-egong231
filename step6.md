@@ -1,3 +1,3 @@
 # Elaine's First CS193 Homework
-- favorite thing about cs193 #1
-- favorite thing about cs193 #2
+- I like how the class will help aid with other CS classes and projects
+- I like how optional virtual sessions are provided for homework help
